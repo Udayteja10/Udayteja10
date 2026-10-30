@@ -120,16 +120,6 @@ MLR Institute of Technology, Hyderabad
 
 ---
 
-## 👨‍💻 Leadership & Activities
-
-**Technical Head – Sports Club**
-
-- Managed technical activities, including website development and event-related technical requirements.
-- Coordinated team members and handled event scripts, Google Forms, and technical checks.
-- Analyzed event data and supported event organization.
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/udayteja1910)
