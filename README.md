@@ -73,16 +73,21 @@ Object-Oriented Programming | Data Structures & Algorithms | DBMS | Operating Sy
 - Integrated Hibernate/JPA with MySQL.
 - Used Docker and Maven for application containerization and build management.
 
-### 🎓 CampusOS – University Management Platform
+🎓 Campus Nexus – University Management Platform
 
-**Node.js | Express.js | MongoDB | React | JWT | Tailwind CSS**
+Node.js | Express.js | MongoDB | React | JWT | Tailwind CSS
 
-- Developed a full-stack university management system with 15+ modules.
-- Implemented student, faculty, academic, administration, and placement workflows.
-- Built secure authentication using JWT, refresh-token rotation, and bcrypt.
-- Implemented role-based access control across REST API routes.
-- Improved API security using Helmet, CORS, rate limiting, and logging.
+Built a full-stack university management platform with 15+ modules covering student, faculty, academic, administration, and placement workflows.
 
+Developed RESTful APIs using Node.js and Express.js with MongoDB and Mongoose.
+
+Implemented secure authentication using JWT, refresh-token rotation, bcrypt password hashing, and account lockout.
+
+Designed role-based access control (RBAC) across REST API routes.
+
+Strengthened API security using Helmet, CORS, rate limiting, and Gzip compression.
+
+Integrated Winston and Morgan logging for application monitoring and troubleshooting.
 ---
 
 ## 🏆 Certifications & Achievements
